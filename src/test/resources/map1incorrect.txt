@@ -1,0 +1,4 @@
+C - 3 - 0
+M - 1 - 1
+A - Dumbo - 0 - 0 - S - GAAADADAGA
+T - 2 - 2 - 1
